@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:VincentDub2/ReactNativeIWA.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:VincentDub2/iwa-spring-kafka.git
