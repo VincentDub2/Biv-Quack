@@ -19,7 +19,7 @@
 
 ## Context
 
-This project is a school project for the 5th year of engineering school at [Polytech Montpellier](https://www.polytech.umontpellier.fr/). The purpose of the project was to introduce the concept of microservices and to implement a project with this principle. This project was made by a team of two people. It was made in 2 months out of the classroom.
+This project is a school project for the 5th year of engineering school at [Polytech Montpellier](https://www.polytech.umontpellier.fr/). The purpose of the project was to introduce the concept of microservices and to implement a project with this principle. This project was made by a team of 4 people. It was made in 2 months out of the classroom.
 
 ## Project Summary: Bivouac Spot Booking Application
 
